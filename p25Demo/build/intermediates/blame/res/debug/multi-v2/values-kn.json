@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\res\\merged\\debug\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">POS</string>
+    <string name="hint_search">Enter name or barcode</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="scan">Scan</string>
+    <string name="previous">&lt;</string>
+    <string name="next">></string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <string name="title_activity_report_detail_page">Report Detail</string>
+</resources>

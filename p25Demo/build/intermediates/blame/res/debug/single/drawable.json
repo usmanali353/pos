@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\MA\\Desktop\\pos\\p25Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\MA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\431b7a4b4046b6fd50984ce63f1e2f2d\\res\\drawable\\notification_icon_background.xml"
+    }
+]
